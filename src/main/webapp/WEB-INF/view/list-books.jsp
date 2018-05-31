@@ -7,7 +7,7 @@
 <html>
 
 <head>
-	<title>List Customers</title>
+	<title>List Books</title>
 	
 	<!-- reference our style sheet -->
 
